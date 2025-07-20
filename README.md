@@ -33,35 +33,35 @@ Parent Project: https://github.com/kurogai/100-mitre-attack-projects
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 1 | Basic | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[0] | TCP or UDP server just to receive messages | :heavy_check_mark:
-[1] | TCP chat server | :heavy_check_mark:
-[2] | UDP chat server | :heavy_check_mark:
-[3] | Multi-threaded UDP or TCP chat server | :heavy_check_mark:
-[4] | Server for file transfers | :heavy_check_mark:
-[5] | Caesar Cipher tool | :heavy_check_mark:
+[0] | TCP or UDP server just to receive messages | :x:
+[1] | TCP chat server | :x:
+[2] | UDP chat server | :x:
+[3] | Multi-threaded UDP or TCP chat server | :x:
+[4] | Server for file transfers | :x:
+[5] | Caesar Cipher tool | :x:
 [6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
-[7] | ROT13 Cipher | :heavy_check_mark:
+[7] | ROT13 Cipher | :x:
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
-[9] | Remote command execution | :heavy_check_mark:
-[10] | Recreate the Netcat tool | :heavy_check_mark:
+[9] | Remote command execution | :x:
+[10] | Recreate the Netcat tool | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[11] | Simple port scanner | :heavy_check_mark:
-[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :heavy_check_mark: 
+[11] | Simple port scanner | :x:
+[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x: 
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
-[14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
-[15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :heavy_check_mark:
+[14] | Simple Web Directory brute-forcer (Threaded) | :x:
+[15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
-[17] | FTP Login bruteforce tool | :heavy_check_mark:
-[18] | SSH Login bruteforce tool | :heavy_check_mark:
+[17] | FTP Login bruteforce tool | :x:
+[18] | SSH Login bruteforce tool | :x:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
 [21] | Simple Google Bot for web scan | :x:
 [22] | Auto website comment bot | :x:
 [23] | Auto website message bot | :x:
 [24] | Web-scrapping using Regex | :x:
-[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :heavy_check_mark:
+[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
 [26] | Simple SQLi tester | :x:
 [27] | Simple XSS tester | :x:
 [28] | Simple Wordpress brute-forcer | :x:
@@ -77,7 +77,7 @@ Level 3 | Advanced Network Attacks | Example
 [34] | Passive web scanner | :x:
 [35] | ARP poisoning tool | :x:
 [36] | Application that creates random shortcuts on screen | :x:
-[37] | Application to encrypt a file | :heavy_check_mark:
+[37] | Application to encrypt a file | :x:
 [38] | Develop a Ransomware application | :x:
 [39] | Spam Email sender | :x:
 [40] | HTTP server for phishing | :x:
@@ -123,7 +123,7 @@ Level 4 | Data analysis, payloads and more networking | Example
 [72] | Develop a Worm with auto replication over email | :x:
 [73] | Simple Disassembler | :x:
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
-[75] | Password hash cracker | :heavy_check_mark:
+[75] | Password hash cracker | :x:
 [76] | Direct code injection exploit | :x:
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
