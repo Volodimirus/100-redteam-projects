@@ -38,11 +38,7 @@ Level 1 | Basic | Example
 [2] | UDP chat server | :heavy_check_mark:
 [3] | Multi-threaded UDP or TCP chat server | :heavy_check_mark:
 [4] | Server for file transfers | :heavy_check_mark:
-<<<<<<< HEAD
-[5] | Caesar Cipher tool | :x:
-=======
 [5] | Caesar Cipher tool | :heavy_check_mark:
->>>>>>> aecf456 (caesar cipher tool (mvp))
 [6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
 [7] | ROT13 Cipher | :x:
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
@@ -155,24 +151,3 @@ Level 4 | Data analysis, payloads and more networking | Example
 [100] | Your own metasploit module | :x:
 
 ---
-
-## Honorable Mentions:
-- Kernel Mode rootkit: [reveng_rtkit](https://github.com/reveng007/reveng_rtkit) by [@reveng007](https://twitter.com/reveng007)
-
-## Adding Your Examples:
-
-You can make a pull request for the "Projects" directory and name the file in 
-compliance with the following convention:
-
-```
-[ID] PROJECT_NAME - <LANGUAGE> | AUTHOR
-```
-
-#### Example:
-
-```
-[91] Web Exploitation Framework - <C> | EONRaider
-```
-
-### Want to support my work?
-[<a href="https://www.buymeacoffee.com/heberjuliok" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>](https://www.buymeacoffee.com/heberjuliok)
